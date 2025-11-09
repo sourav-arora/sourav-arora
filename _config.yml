@@ -1,10 +1,12 @@
 title: Sourav Arora Data Analyst
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-Passionate Data Analyst with a focus on turning raw data into actionable insights. 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Passionate Data Analyst with a focus on turning raw data into actionable insights. 
   <br><br>
   Skilled in data visualization, reporting, and storytelling using tools like Power BI, SQL, and Python. 
   <br><br>
   Explore my projects, dashboards, and case studies showcasing real-world problem-solving through data.
+  
   <a href="https://www.linkedin.com/in/souravarora/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
